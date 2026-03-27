@@ -32,9 +32,6 @@
 
 <Blockquote>
   <div align=left>
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hannamoon09&layout=donut />
-    <br />
-    <br />
     <a href="https://dreamhack.io/users/hannamoon" target="_blank" rel="noopener noreferrer">
       <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=hannamoon" alt="Dreamhack Stats" />
     </a>
