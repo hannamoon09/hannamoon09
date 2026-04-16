@@ -17,6 +17,7 @@
   <ul>
     <li>
       <code>경북소프트웨어마이스터고등학교 RCE 동아리 CTF - 장려상 수상</code>
+      <code>경상북도 지방기능경기대회 사이버보안 직종 2위🥈</code>
     </li>
   </ul>
 </Blockquote>
